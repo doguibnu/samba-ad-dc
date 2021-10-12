@@ -2,6 +2,8 @@
 
 ## **Para OpenSUSE 15.3**
 
+Máquina 01
+
 Passos para que o OpenSUSE seja um **Controlador de Domínio** em sua Rede. A instalação do **SAMBA-AD-DC** será em uma instalação limpa do sistema ou seja, sem qualquer ferramenta do samba ter sido instalado anteriormente, tanto como um servidor de arquivos simples,  como um serviço de Controlador de domínio anterior ou ainda, Membro de um domínio.  
 
 **OBS: Todos os comandos estarão em modo root no terminal (#)**
