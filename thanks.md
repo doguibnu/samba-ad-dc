@@ -1,0 +1,1 @@
+Gostaria de agradecer ao Márcio do Canal [samba4BR ]([Telegram: Contact @Samba4BR](https://t.me/Samba4BR))do Telegram por toda atenção, paciência e ajuda, assim como todos do Canal. Sem isso, nada seria possível. Muito Obrigado!
