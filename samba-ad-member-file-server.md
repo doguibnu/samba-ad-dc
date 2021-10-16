@@ -245,9 +245,9 @@ nslookup IP-serverad
 
 Se receber as respostas corretas, tudo deve estar funcionando. Caso não consiga obter as repostas, verifique as configurações novamente.
 
-Neste momento você já deve ter uma máquina com Windows, à partir da versão 7 que possibilite se juntar em um domínio. Escolha entre windows 7 e até o 8.1 de 64 bits que **não** sejam versões **HOME EDITION**. O windows 10 infelizmente retirou a aba no RSAT onde trata dos **atributos UNIX** (**GID - Groups ID e ID - Users ID**) e nesse caso você terá que inserir manualmente por ordem. Também na hora de escolher as opções que serão instaladas para o gerenciamento junto ao RSAT, não esquecer de **marcar** as opções como são mostradas ![aqui](/home/douglas/Documentos/rsat-win/ferramenta-nis-instalacao.png)
+Neste momento você já deve ter uma máquina com Windows, à partir da versão 7 que possibilite se juntar em um domínio. Escolha entre windows 7 e até o 8.1 de 64 bits que **não** sejam versões **HOME EDITION**. O windows 10 infelizmente retirou a aba no RSAT onde trata dos **atributos UNIX** (**GID - Groups ID e ID - Users ID**) e nesse caso você terá que inserir manualmente por ordem. Também na hora de escolher as opções que serão instaladas para o gerenciamento junto ao RSAT, não esquecer de **marcar** as opções como são mostradas ![aqui](https://drive.google.com/file/d/1gdxrXaqmx_bsJdzP8DxWmjAroHCud6bg/view?usp=sharing)
 
-É necessário deixar estas opões marcadas para que você tenha acesso a aba **Unix Attributes** como ![aqui](/home/douglas/Documentos/rsat-win/unix-attributes1.png)
+É necessário deixar estas opões marcadas para que você tenha acesso a aba **Unix Attributes** como ![aqui](https://drive.google.com/file/d/18BLTPKNVm_k20ph0L_hAnFNSi_wxFTVu/view?usp=sharing)
 
 Então se o usuário** Nil**, for criado através do RSAT com windows 10, você terá que inserir manualmente o valor de usuário, como: **10001** e assim por diante. Do mesmo modo com Grupos: Grupo **TI** terá que inserir manualemente o valor: **3001**, assim como, os caminhos do diretório **home** e o **shell**.
 
