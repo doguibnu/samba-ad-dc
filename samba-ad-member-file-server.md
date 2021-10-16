@@ -106,7 +106,7 @@ Inserir o seu domínio com o usuário teste (por exemplo) como abaixo:
 !root = DOMINIO\teste
 ```
 
-**Salvar o arquivo **
+**Salvar o arquivo**
 
 ## Alterar o arquivo config em:
 
