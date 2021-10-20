@@ -69,7 +69,7 @@ rm /etc/krb5.conf
 ## Remover o arquivo smb.conf:
 
 ```
-rm /etc/samba/smb.con
+rm /etc/samba/smb.conf
 ```
 
 ## Reiniciar o sistema:
